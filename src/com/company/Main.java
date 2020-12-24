@@ -9,5 +9,6 @@ public class Main {
 
 public static void freakout(){
     System.out.println("Working on new branch feature2.0");
+    System.out.println("Freakout");
 }
 }
