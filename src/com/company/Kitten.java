@@ -9,4 +9,7 @@ public static void bugfix(){
     System.out.println("Bugfix method added to local master");
 
 }
+public static void feature4(){
+
+}
 }
