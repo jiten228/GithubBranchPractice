@@ -15,4 +15,7 @@ public static void bugfix(){
 public static void feature4(){
     System.out.println("Jiten added new method");
 }
+    public static void feature5(){
+        System.out.println("Jiten added new method");
+    }
 }
