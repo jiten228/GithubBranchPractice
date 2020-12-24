@@ -10,6 +10,6 @@ public static void bugfix(){
 
 }
 public static void feature4(){
-
+    System.out.println("Jiten added new method");
 }
 }
