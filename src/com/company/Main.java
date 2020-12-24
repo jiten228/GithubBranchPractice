@@ -8,5 +8,6 @@ public class Main {
     }
     public static void bugfix(){
         System.out.println("bugfix method added in local master");
+        System.out.println("Bugfix");
     }
 }
