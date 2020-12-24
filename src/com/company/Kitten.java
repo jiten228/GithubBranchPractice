@@ -18,4 +18,7 @@ public static void feature4(){
     public static void feature5(){
         System.out.println("Jiten added new method");
     }
+    public static void feature5_1(){
+        System.out.println("Jiten added new method");
+    }
 }
